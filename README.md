@@ -4,4 +4,5 @@ This is the dataset for all of the NFL team's offenses up until week 9 of the 20
 ##  Table of Contents
 - Dashboard
 <br>
-[Dashboard 1.pdf](https://github.com/vtn160230/NFL-2022-Offense-Week-9/files/10689314/Dashboard.1.pdf)
+
+![Dashboard 1](https://user-images.githubusercontent.com/122754787/217634032-61413a47-494a-4415-b6c6-31c78df068a0.png)
