@@ -1,9 +1,9 @@
 # NFL-2022-Offense-Week-9
-This is the dataset for all of the NFL team's offenses up until week 9 of the 2022 season.
+This is the data for all of the NFL team's offenses up until week 9 of the 2022 season.
 
 ##  Table of Contents
 
-[Link to Dashboard)(https://public.tableau.com/app/profile/tommy.nguyen2848/viz/bopook5/Dashboard1?publish=yes)
+[Link to Interactive Dashboard)(https://public.tableau.com/app/profile/tommy.nguyen2848/viz/bopook5/Dashboard1?publish=yes)
 
 <br>
 
