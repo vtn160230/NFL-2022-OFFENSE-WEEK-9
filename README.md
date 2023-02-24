@@ -3,7 +3,7 @@ This is the data for all of the NFL team's offenses up until week 9 of the 2022 
 
 ##  Table of Contents
 
-[Link to Interactive Dashboard)(https://public.tableau.com/app/profile/tommy.nguyen2848/viz/bopook5/Dashboard1?publish=yes)
+[https://public.tableau.com/app/profile/tommy.nguyen2848/viz/NFLdata_16772040943850/Dashboard1?publish=yes)
 
 <br>
 
