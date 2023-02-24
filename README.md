@@ -7,4 +7,4 @@ This is the data for all of the NFL team's offenses up until week 9 of the 2022 
 
 <br>
 
-![Dashboard 1](https://user-images.githubusercontent.com/122754787/217634032-61413a47-494a-4415-b6c6-31c78df068a0.png)
+![Dashboard 1 (1)](https://user-images.githubusercontent.com/122754787/221074109-c529bfc0-26fc-4518-862e-08576247ea63.png)
